@@ -1,5 +1,5 @@
 import java.util.*;
-public class SumofNnumb{
+public class SumodNnumb{
 static int sum(int n){
 if(n==0){
  return 0;
