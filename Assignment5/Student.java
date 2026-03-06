@@ -34,35 +34,35 @@ System.out.println("Grade: " + grade);
 
 public static void main(String[]args){
 Student s1 = new Student();
-s1.name = "Abika";
+s1.name = "Aaa";
 s1.rollNo = 01;
 s1.BiologyMark = 78;
 s1.ChemistryMark = 81;
 s1.PhysicsMark = 97;
 
 Student s2 = new Student();
-s2.name = "Akshi";
+s2.name = "Bbb";
 s2.rollNo = 02;
 s2.BiologyMark = 68;
 s2.ChemistryMark = 61;
 s2.PhysicsMark = 91;
 
 Student s3 = new Student();
-s3.name = "Aqulin";
+s3.name = "Ccc";
 s3.rollNo = 03;
 s3.BiologyMark = 61;
 s3.ChemistryMark =71;
 s3.PhysicsMark = 90;
 
 Student s4 = new Student();
-s4.name = "Ashika";
+s4.name = "Ddd";
 s4.rollNo = 04;
 s4.BiologyMark = 62;
 s4.ChemistryMark = 81;
 s4.PhysicsMark = 87;
 
 Student s5 = new Student();
-s5.name = "Azariyas";
+s5.name = "Eee";
 s5.rollNo = 05;
 s5.BiologyMark = 78;
 s5.ChemistryMark = 81;
