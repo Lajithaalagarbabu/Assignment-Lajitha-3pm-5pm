@@ -1,4 +1,3 @@
-import java.util.*;
 class Employee {
     String Name;
     int id;
@@ -7,6 +6,9 @@ class Employee {
         int Hra = Salary * 20 / 100;
         int da = Salary * 10 / 100;
         int gross_Salary = Salary + Hra + da;
+        if(Salary >= 50000){
+            gross_Salary+=Salary*5 /100;
+        }
         System.out.println("Your Gross Salary is: " + gross_Salary);
     }
     public static void main(String[] args) {

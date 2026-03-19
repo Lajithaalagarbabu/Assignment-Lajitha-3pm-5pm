@@ -1,12 +1,12 @@
-import java.util.*;
 
 public class Librarysystem  {
    
    int Member_ID;
    String Membership_Type;
+   static int count=501;
   
 Librarysystem(){
- Member_ID=501;
+ Member_ID= count++;
  Membership_Type= "Regular";
 }
 public void display(){
@@ -16,7 +16,10 @@ public void display(){
 }
     public static void main(String[] args) {
      Librarysystem ls=new Librarysystem();
+     Librarysystem l=new Librarysystem();
      ls.display();
+     l.display();
      
+    
     }
 }
