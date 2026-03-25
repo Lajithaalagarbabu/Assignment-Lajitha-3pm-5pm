@@ -3,7 +3,7 @@ int ticketPrice;
 int distance = 10;
 int fare;
 void calculateFare(){
-
+System.out.println("Fare calculation for transport");
 }
 }
 
