@@ -1,0 +1,19 @@
+what is servlet?
+lifecycle of servlet
+do get and do post
+what is section
+what is request dispatcher
+servlet config?
+what is jsp?
+logic of jsp
+how to pass servlet and jsp?
+jsp is thread safe or not?
+what is servlet mapping(web.xml(login.html,pattern,url,name))
+what is servlet class?
+what is cookie?
+what is section?(server based,does not set a limited)
+
+
+
+
+

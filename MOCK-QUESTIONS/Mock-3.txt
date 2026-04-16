@@ -1,0 +1,20 @@
+why collection is important?
+diff between set an list?
+what is array list?
+what is vector?
+what is HashMap?
+colliuson?
+what is load file in HashMap?(0.7 sizing value irukanu)
+difference between HashMap vs hash table?
+how implement list?(Array list,linked list vector )
+What is stack?
+what is queue? method in queue?
+implementation ethula panuvom(priority linked list)
+what is priority queue?
+difference linkedlist and arraylist?
+
+
+
+
+
+

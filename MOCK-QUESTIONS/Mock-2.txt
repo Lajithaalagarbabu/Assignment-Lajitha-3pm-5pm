@@ -1,0 +1,35 @@
+what is jdbc 
+why ambiguity is created
+what is this key word
+what is constructor
+what is polymorphisms & example
+difference interface and class
+what is result set
+what is array
+give 2 exception  & why we are using it
+what is jvm
+java feature 
+single ton pattern
+jagged array
+hybrid inheritance
+hierarchy inheritance
+what is interface
+what is abstraction
+what is exception and how will exception handling
+what are the error
+what is  encapsulation
+how using encapsulation
+what is set?
+what is jit?
+do you call one interface in a class
+what is difference btw execute update and query
+what is class
+what is access specifier and what are the type of access specifier
+what is multi level inheritance
+run time polymorphisms 
+overloading and overriding difference
+what is map
+what is set 
+difference from map to set
+what is vector
+
